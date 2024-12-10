@@ -1,4 +1,11 @@
-# Example: Print Hello, World!
+Name: Pavithra pandlappagari
+Company: CODTECH IT SOLUTION
+ID:CT08DS56
+Domain: Data Analyst Intern
+Duration:Nov 2024 to Dec 2024
+Mentor:Neela Santhosh Kumar
+
+# Hello, World!
 print("Hello, World!")
 
 
